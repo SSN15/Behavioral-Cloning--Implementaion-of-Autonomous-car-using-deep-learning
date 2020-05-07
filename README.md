@@ -52,7 +52,6 @@ The model performed better with test data and the vehicle was able to complete t
 
 The final output can be seen in the video:
 
-![](video.mp4)
-
+https://github.com/SSN15/Behavioral-Cloning--Implementaion-of-Autonomous-car-using-deep-learning/blob/master/output_video/video.mp4
 
 
