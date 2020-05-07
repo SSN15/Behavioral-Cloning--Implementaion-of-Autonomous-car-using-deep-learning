@@ -54,4 +54,7 @@ The final output can be seen in the video:
 
 https://github.com/SSN15/Behavioral-Cloning--Implementaion-of-Autonomous-car-using-deep-learning/blob/master/output_video/video.mp4
 
+**Interesting reads**
 
+1. https://www.theverge.com/2018/5/9/17307156/google-waymo-driverless-cars-deep-learning-neural-net-interview
+2. https://elitedatascience.com/overfitting-in-machine-learning
