@@ -58,3 +58,9 @@ https://github.com/SSN15/Behavioral-Cloning--Implementaion-of-Autonomous-car-usi
 
 1. https://www.theverge.com/2018/5/9/17307156/google-waymo-driverless-cars-deep-learning-neural-net-interview
 2. https://elitedatascience.com/overfitting-in-machine-learning
+3. https://arxiv.org/abs/1812.03079
+4. https://arxiv.org/abs/1512.02325
+5. https://arxiv.org/abs/1711.06396
+6. http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf
+7. https://arxiv.org/abs/1511.00561
+
